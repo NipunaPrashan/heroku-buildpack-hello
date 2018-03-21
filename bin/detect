@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "WSO2 API Gateway"
+exit 0

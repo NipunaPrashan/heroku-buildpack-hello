@@ -1,0 +1,6 @@
+#!/bin/sh
+
+indent() {
+  sed -u 's/^/       /'
+}
+
